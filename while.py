@@ -1,4 +1,4 @@
 a=int(input(""))
-i=1
+i=2
 while i<=10:
    
